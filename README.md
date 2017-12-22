@@ -10,3 +10,5 @@ these two classes that the next generation is computed.
 The GamePanel class is needed for the GUI to run nicely.
 
 The Pattern class bundles the information for a starting pattern up.
+
+This program has been written as part of my Computer Science module in first year at University. 
